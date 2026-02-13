@@ -35,13 +35,6 @@ Sie unterstützt **Drag & Drop**, **Zufall**, **Dauerschleife**, **Filter**, **H
 
 ---
 
-## Screenshots
-
-*(Optional: hier kannst du später Screenshots einfügen)*
-
-```text
-📌 Tipp: Einfach ein Screenshot in GitHub hochladen und hier einfügen.
-
 Installation
 Voraussetzungen
 
@@ -124,6 +117,10 @@ Start / Pause / Weiter	Leertaste
 Stopp	Strg+S
 Zurück	Pfeil links
 Weiter	Pfeil rechts
+Dauerschleife an/aus	Strg+R
+Zufall an/aus	Strg+Z
+Vollbild an/aus (nur Medium)	Strg+V oder F12
+Vollbild verlassen	Esc
 Dauerschleife an/aus	Strg+R
 Zufall an/aus	Strg+Z
 Vollbild an/aus (nur Medium)	Strg+V oder F12
