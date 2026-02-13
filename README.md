@@ -46,7 +46,7 @@ Voraussetzungen
 
 1) Projekt klonen
 
-git clone https://github.com/DEIN-USERNAME/MintSlide.git
+git clone https://github.com/Testatost/MySlide.git
 cd MintSlide
 
 2) Virtuelle Umgebung erstellen und aktivieren
